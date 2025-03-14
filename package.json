@@ -35,7 +35,7 @@
     "html2canvas": "^1.0.0-rc.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.4",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-transform-runtime": "^7.14.5",
     "@babel/preset-env": "^7.10.4",
     "@rollup/plugin-babel": "^5.3.0",
@@ -59,7 +59,7 @@
     "jasmine-expect": "4.0.3",
     "js-yaml": "3.13.1",
     "jsdoc": "^3.6.3",
-    "karma": "5.1.0",
+    "karma": "6.0.0",
     "karma-babel-preprocessor": "8.0.1",
     "karma-chrome-launcher": "3.1.0",
     "karma-coverage": "2.0.2",
